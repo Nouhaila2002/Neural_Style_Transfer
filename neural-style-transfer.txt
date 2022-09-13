@@ -1,0 +1,5 @@
+introduction to Neural Style Transfer :
+
+https://towardsdatascience.com/a-brief-introduction-to-neural-style-transfer-d05d0403901d
+
+https://www.fritz.ai/style-transfer/
